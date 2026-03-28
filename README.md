@@ -1,4 +1,5 @@
 # CENTIPEDE
+![2aqtU](https://github.com/user-attachments/assets/c044f711-c792-4f33-a9ab-33f57b2a152f)
 
 <div align="center">
 
