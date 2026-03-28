@@ -1,5 +1,21 @@
 # CENTIPEDE
 
+<div align="center">
+
+[![Go Version](https://img.shields.io/badge/go-1.24+-blue.svg?style=flat-square)](https://golang.org)
+[![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)](https://github.com/bogdanticu88/Centipede/actions)
+[![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg?style=flat-square)](#development)
+[![Go Report Card](https://goreportcard.com/badge/github.com/bogdanticu88/Centipede?style=flat-square)](https://goreportcard.com/report/github.com/bogdanticu88/Centipede)
+
+**Multi-cloud API anomaly detection and tenant protection system**
+
+[Features](#features) • [Quick Start](#installation) • [Documentation](#documentation) • [Roadmap](#roadmap)
+
+</div>
+
+---
+
 Multi-cloud API anomaly detection and tenant protection system.
 
 ## Overview
@@ -164,6 +180,24 @@ centipede/
 └── tests/                  # Tests
 ```
 
+## Documentation
+
+- **[Quick Start](QUICKSTART.md)** — Get up and running in 5 minutes
+- **[Deployment Guide](DEPLOYMENT.md)** — Production deployment strategies
+- **[CI/CD Integration](CICD.md)** — GitHub Actions, GitLab CI, Jenkins
+- **[Azure APIM Setup](docs/AZURE_ORCHESTRATION.md)** — Azure configuration and orchestration
+- **[Production Readiness](PRODUCTION_READINESS_ASSESSMENT.md)** — Pre-production checklist
+
+## Supported Platforms
+
+| Platform | Status | Support |
+|----------|--------|---------|
+| Azure APIM | ✅ Stable | Production-ready |
+| AWS API Gateway | 🗺️ Planned | Phase 2 |
+| GCP Cloud API Gateway | 🗺️ Planned | Phase 3 |
+| Kubernetes | ✅ Ready | CronJob, Operator |
+| Docker | ✅ Ready | Multi-stage builds |
+
 ## Development
 
 ### Prerequisites
@@ -200,3 +234,19 @@ Contributions welcome! Please open an issue or PR.
 - [ ] Prometheus metrics export
 - [ ] REST API for dashboards
 - [ ] Kubernetes operator
+
+## Community
+
+- **Report Issues**: [GitHub Issues](https://github.com/bogdanticu88/Centipede/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/bogdanticu88/Centipede/discussions)
+- **Security**: [Security Policy](SECURITY.md)
+
+---
+
+<div align="center">
+
+**[⬆ back to top](#centipede)**
+
+Made with ❤️ by [Bogdan Ticu](https://github.com/bogdanticu88)
+
+</div>
