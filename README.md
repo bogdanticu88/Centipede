@@ -1,7 +1,7 @@
 # CENTIPEDE
 ![2aqtU](https://github.com/user-attachments/assets/c044f711-c792-4f33-a9ab-33f57b2a152f)
 
-<div align="center">
+
 
 
 [![Go Version](https://img.shields.io/badge/go-1.24+-blue.svg?style=flat-square)](https://golang.org)
