@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Release](https://img.shields.io/github/v/release/bogdanticu88/Centipede?style=flat-square&color=blue)](https://github.com/bogdanticu88/Centipede/releases)
+
 [![Go Version](https://img.shields.io/badge/go-1.24+-blue.svg?style=flat-square)](https://golang.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)](https://github.com/bogdanticu88/Centipede/actions)
