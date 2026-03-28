@@ -2,11 +2,27 @@
 
 <div align="center">
 
+[![Release](https://img.shields.io/github/v/release/bogdanticu88/Centipede?style=flat-square&color=blue)](https://github.com/bogdanticu88/Centipede/releases)
 [![Go Version](https://img.shields.io/badge/go-1.24+-blue.svg?style=flat-square)](https://golang.org)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg?style=flat-square)](https://github.com/bogdanticu88/Centipede/actions)
-[![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg?style=flat-square)](#development)
+[![Tests](https://img.shields.io/badge/tests-30+-brightgreen.svg?style=flat-square)](#development)
 [![Go Report Card](https://goreportcard.com/badge/github.com/bogdanticu88/Centipede?style=flat-square)](https://goreportcard.com/report/github.com/bogdanticu88/Centipede)
+
+[![Docker](https://img.shields.io/badge/docker-ready-blue.svg?style=flat-square&logo=docker)](https://docker.com)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-ready-blue.svg?style=flat-square&logo=kubernetes)](https://kubernetes.io)
+[![Azure](https://img.shields.io/badge/azure-apim-blue.svg?style=flat-square&logo=microsoft-azure)](https://azure.microsoft.com)
+[![Status](https://img.shields.io/badge/status-production-success.svg?style=flat-square)](#)
+
+[![Code Quality](https://img.shields.io/badge/code%20quality-A-brightgreen.svg?style=flat-square)](#)
+[![Security](https://img.shields.io/badge/security-audited-brightgreen.svg?style=flat-square)](SECURITY.md)
+[![Stability](https://img.shields.io/badge/stability-stable-brightgreen.svg?style=flat-square)](#)
+[![Maintenance](https://img.shields.io/badge/maintenance-actively%20developed-brightgreen.svg?style=flat-square)](#)
+
+[![GitHub Stars](https://img.shields.io/github/stars/bogdanticu88/Centipede?style=flat-square&logo=github)](https://github.com/bogdanticu88/Centipede/stargazers)
+[![GitHub Issues](https://img.shields.io/github/issues/bogdanticu88/Centipede?style=flat-square&logo=github)](https://github.com/bogdanticu88/Centipede/issues)
+[![GitHub Discussions](https://img.shields.io/badge/discussions-welcome-brightgreen.svg?style=flat-square&logo=github)](https://github.com/bogdanticu88/Centipede/discussions)
+[![GitHub Contributors](https://img.shields.io/github/contributors/bogdanticu88/Centipede?style=flat-square&logo=github)](https://github.com/bogdanticu88/Centipede/graphs/contributors)
 
 **Multi-cloud API anomaly detection and tenant protection system**
 
